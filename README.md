@@ -8,6 +8,7 @@ This will reduce load on API when we try to retrieve same data every single time
 ## Available script
 You need to install Redis first on your computer. <br>
 For windows download it from here https://github.com/dmajkic/redis/downloads <br>
+redis-server.exe file should be running before you do the rest of the process below <br.
 You can also view cached data on redis-cli.exe after you run redis-server.exe
 
 ### `npm i`
